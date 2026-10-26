@@ -61,10 +61,10 @@ A collection of four mechanical design and manufacturing projects completed duri
 
 ![Project 3 - CAD Model (support view)](images/project-3-cad4.jpg)
 
-![Project 3 - Support](images/project-3-support.jpeg)
+![Project 3 - Support](images/project-3-support.jpg)
 
-![Project 3 - Finished Product 1](images/project-3-final1.jpeg)
+![Project 3 - Finished Product 1](images/project-3-final1.jpg)
 
-![Project 3 - Finished Product 2](images/project-3-final2.jpeg)
+![Project 3 - Finished Product 2](images/project-3-final2.jpg)
 
 ---
