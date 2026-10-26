@@ -27,8 +27,6 @@ As part of the 2022 FIRST Robotics Competition, I was responsible for designing 
 
 ![Project 1 - CAD Model (close-up view 2)](images/project-1-cad4.jpg)
 
----
-
 ### 2. Second Prototype
 
 ![Project 2 - CAD Model (open)](images/project-2-cad1.jpg)
