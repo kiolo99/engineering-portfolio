@@ -41,8 +41,30 @@ A collection of four mechanical design and manufacturing projects completed duri
 
 ![Project 2 - CAD Model (close-up view)](images/project-2-cad2.jpg)
 
-![Project 2 - Finished Product](images/project-2-final.jpeg)
-
 ---
+
+### 3. Solar heater
+
+**Software:** OnShape
+
+**Objective:** Develop a parabolic solar heater completely out of carton and aluminum foil that will make water inside a can boil.
+
+**Design Process:** For our design the biggest problem was that it had to be made up entirely out of carton. We first started with a solid structure capable of being handled a lot and titling 360 degrees, so the sun always hits it directly, and all the heat is completely concentrated in the focus of the parabola. 
+
+**Manufacturing:** After designing it, it was cut using a laser cutter.
+
+![Project 3 - CAD Model](images/project-3-cad1.jpg)
+
+![Project 3 - CAD Model (close-up view 1)](images/project-3-cad2.jpg)
+
+![Project 3 - CAD Model (close-up view 2)](images/project-3-cad3.jpg)
+
+![Project 3 - CAD Model (support view)](images/project-3-cad4.jpg)
+
+![Project 3 - Support](images/project-3-support.jpeg)
+
+![Project 3 - Finished Product 1](images/project-3-final1.jpeg)
+
+![Project 3 - Finished Product 2](images/project-3-final2.jpeg)
 
 ---
