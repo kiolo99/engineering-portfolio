@@ -11,6 +11,8 @@ A collection of four mechanical design and manufacturing projects completed duri
 
 ### 1. Slider-crank mechanism
 
+**Software:** OnShape
+
 **Objective:** To be able to cut paper using a small 5V DC-Motor. 
 
 **Design Process:** As a team, we opted for a simple tablelike design. The biggest issue was the slider since we had to use the blade from a bow saw, so having teeth everywhere was a problem. We eventually solved it by adding a bar and a hole inside the saw that would ensure the blade stayed vertical.
