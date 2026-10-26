@@ -1,12 +1,12 @@
 # Projects at Tecnológico de Monterrey, Mexico
 
-![Mechanical Design](https://img.shields.io/badge/Mechanical%20Design-2563EB)
-![CAD](https://img.shields.io/badge/CAD-2563EB)
-![3D Modeling](https://img.shields.io/badge/3D%20Modeling-2563EB)
-![Manufacturing](https://img.shields.io/badge/Manufacturing-2563EB)
+![Mechanical Design](https://img.shields.io/badge/Mechanical%20Design-3498DB)
+![CAD](https://img.shields.io/badge/CAD-21618C)
+![3D Modeling](https://img.shields.io/badge/3D%20Modeling-21618C)
+![Manufacturing](https://img.shields.io/badge/Manufacturing-21618C)
 
-![Programing](https://img.shields.io/badge/Programing-16A34A)
-![Arduino](https://img.shields.io/badge/Arduino-16A34A)
+![Electronics](https://img.shields.io/badge/Programing-BB6BD9)
+![Arduino](https://img.shields.io/badge/Arduino-76448A)
 
 ## Overview
 
