@@ -41,7 +41,7 @@ A collection of four mechanical design and manufacturing projects completed duri
 
 ![Project 2 - CAD Model (close-up view)](images/project-2-cad2.jpg)
 
-![Project 2 - Finished Product 2](images/project-2-final.jpeg)
+![Project 2 - Finished Product](images/project-2-final.jpeg)
 
 ---
 
@@ -70,3 +70,21 @@ A collection of four mechanical design and manufacturing projects completed duri
 ![Project 3 - Finished Product 2](images/project-3-final2.jpg)
 
 ---
+
+### 4. Transformer
+
+**Software:** SolidWorks
+
+**Objective:** Study the influence of the distance between the primary and secondary windings in the final yielded current.
+
+**Design Process:** Our design consisted of a tower with two interconnected infinite screws to ensure that the distance can be progressively increased. 
+
+**Manufacturing:** It was made from wood and existing parts. The wood parts were manufactured using Router CNC.
+
+![Project 4 - CAD Model](images/project-4-cad1.jpg)
+
+![Project 4 - CAD Model (close-up view)](images/project-4-cad2.jpg)
+
+![Project 4 - CAD Model (exploded view)](images/project-4-cad3.jpg)
+
+![Project 4 - Finished Product](images/project-4-final.jpg)
