@@ -17,7 +17,9 @@ A collection of four mechanical design and manufacturing projects completed duri
 
 **Manufacturing:** The whole thing was manufactured using existing pieces and wood. We used a laser cutter for the small parts, and the big parts were cut manually.
 
-![Project 1 - CAD Model](images/project-1-cad.jpg)
+![Project 1 - CAD Model](images/project-1-cad1.jpg)
+
+![Project 1 - CAD Model (close-up view)](images/project-1-cad2.jpg)
 
 ![Project 1 - Finished Product](images/project-1-final.jpg)
 
