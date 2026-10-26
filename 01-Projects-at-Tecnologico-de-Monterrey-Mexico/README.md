@@ -41,7 +41,7 @@ A collection of four mechanical design and manufacturing projects completed duri
 
 ![Project 2 - CAD Model (close-up view)](images/project-2-cad2.jpg)
 
-![Project 2 - Finished Product](images/project-2-final.jpg)
+![Project 2 - Finished Product](images/project-2-final.jpeg)
 
 ---
 
