@@ -1,11 +1,11 @@
-# 3D-Portfolio
+# Engineering Portfolio
 
-Hello!
+Hello, and welcome to my engineering portfolio!
 
-My name is Julio Midence Stoeckel, and I am an International Mechanical Engineering student at the Karlsruhe Institute of Technology (KIT).
+My name is Julio Midence Stoeckel, and I am an international Mechanical Engineering student at the Karlsruhe Institute of Technology (KIT), Germany.
 
-This repository contains a selection of my 3D design work, including personal projects, university projects, and models created throughout my learning process.
+This repository showcases a selection of my engineering work, including personal projects, university projects, and 3D models developed throughout my learning journey. These projects reflect my interests in mechanical design, technical problem-solving, and the practical application of engineering concepts.
 
-Each folder contains images of the design together with a brief description of the project, the design process, and the software used.
+Each project folder contains images of the design, along with a brief description of the project, the design process, and the software and tools used.
 
-Thank you for taking the time to review my portfolio.
+Thank you for taking the time to explore my work!
