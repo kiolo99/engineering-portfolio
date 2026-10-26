@@ -9,6 +9,30 @@
 
 A collection of four mechanical design and manufacturing projects completed during my first year of university studies in Mexico. Each project was developed over a six-week period, covering the entire design process, from initial concept development and 3D modeling to prototyping and the manufacturing of a finished physical product.
 
-## 1. Slider-crank mechanism
+### 1. Slider-crank mechanism
 
-# Objective
+**Objective:** To be able to cut paper using a small 5V DC-Motor. 
+
+**Design Process:** As a team, we opted for a simple tablelike design. The biggest issue was the slider since we had to use the blade from a bow saw, so having teeth everywhere was a problem. We eventually solved it by adding a bar and a hole inside the saw that would ensure the blade stayed vertical.
+
+**Manufacturing:** The whole thing was manufactured using existing pieces and wood. We used a laser cutter for the small parts, and the big parts were cut manually.
+
+![Project 1 - CAD Model](images/project-1-cad.jpg)
+
+![Project 1 - Finished Product](images/project-1-final.jpg)
+
+---
+
+### 1. Slider-crank mechanism
+
+**Objective:** To be able to cut paper using a small 5V DC-Motor. 
+
+**Design Process:** As a team, we opted for a simple tablelike design. The biggest issue was the slider since we had to use the blade from a bow saw, so having teeth everywhere was a problem. We eventually solved it by adding a bar and a hole inside the saw that would ensure the blade stayed vertical.
+
+**Manufacturing:** The whole thing was manufactured using existing pieces and wood. We used a laser cutter for the small parts, and the big parts were cut manually.
+
+![Project 1 - CAD Model](images/project-1-cad.jpg)
+
+![Project 1 - Finished Product](images/project-1-final.jpg)
+
+---
