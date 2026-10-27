@@ -29,7 +29,7 @@ Users can create individual landscaping projects and divide them into designated
 
 **Data Storage:** MySQL local database
 
-**Main Programming Concepts:** [e.g., functions, classes, data structures, file handling, calculations]
+**Main Programming Concepts:** Object-oriented programming, Data structures, User interface design, Data validation and Error Handling.
 
 ### How It Works
 
