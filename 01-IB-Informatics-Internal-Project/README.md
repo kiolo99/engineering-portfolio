@@ -60,11 +60,11 @@ However, despite this initial planning, usability remained a challenge. The clie
 
 *Projects page*
 
-![Program - Manage project](images/program-manage-area-page.jpg)
+![Program - Manage project](images/program-manage-project-page.jpg)
 
 *Manage project page*
 
-![Program - Manage area](images/program-manage-project-area.jpg)
+![Program - Manage area](images/program-manage-area-area.jpg)
 
 *Manage area page*
 
