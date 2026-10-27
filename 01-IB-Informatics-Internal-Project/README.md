@@ -38,7 +38,7 @@ Users can create individual landscaping projects and divide them into designated
 3. Plants are assigned to the relevant areas.
 4. The application calculates the total area occupied by the plants and the associated costs.
 
-[Explain any important algorithms, calculations, or design decisions here.]
+**Security and User Management:** Security was also considered during development. A user account system was implemented to accommodate potential company growth and allow multiple users to access the application. This system also provides a foundation for introducing role-based access control in the future, allowing different permission levels to restrict which features users can access or modify.
 
 ## Screenshots
 
