@@ -40,13 +40,15 @@ Users can create individual landscaping projects and divide them into designated
 
 **Security and User Management:** Security was also considered during development. A user account system was implemented to accommodate potential company growth and allow multiple users to access the application. This system also provides a foundation for introducing role-based access control in the future, allowing different permission levels to restrict which features users can access or modify.
 
+## Challenges and Problem-Solving
+
+To minimize rework during development, I created a graphical prototype of the application in collaboration with the client before starting the programming process. The prototype was presented to the client, and the necessary adjustments were made to agree on the layout and navigation of each window in advance. This provided a clear visual reference during development and simplified the implementation of the individual screens.
+
+However, despite this initial planning, usability remained a challenge. The client did not always navigate the finished application as expected, revealing differences between the intended workflow and the actual user experience. Consequently, several changes had to be implemented after the initial version was completed. This highlighted the importance of not only agreeing on the design beforehand, but also testing the application with the intended user and refining it based on their feedback.
+
 ## Screenshots
 
 [Add screenshots of the application interface, plant database, project organization, and calculation results.]
-
-## Challenges and Problem-Solving
-
-[Describe one or two technical challenges you encountered and how you solved them.]
 
 ## Outcome and Learning
 
