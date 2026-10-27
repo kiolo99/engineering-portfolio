@@ -24,9 +24,15 @@ A collection of four mechanical design and manufacturing projects completed duri
 
 ![Project 1 - CAD Model](images/project-1-cad1.jpg)
 
+*CAD Model*
+
 ![Project 1 - CAD Model (close-up view)](images/project-1-cad2.jpg)
 
+*Close-up view*
+
 ![Project 1 - Finished Product](images/project-1-final.jpg)
+
+*Finished product*
 
 ---
 
@@ -42,9 +48,15 @@ A collection of four mechanical design and manufacturing projects completed duri
 
 ![Project 2 - CAD Model](images/project-2-cad1.jpg)
 
+*CAD Model*
+
 ![Project 2 - CAD Model (close-up view)](images/project-2-cad2.jpg)
 
+*Close-ip view*
+
 ![Project 2 - Finished Product](images/project-2-final.jpeg)
+
+*Final Product*
 
 ---
 
@@ -60,9 +72,15 @@ A collection of four mechanical design and manufacturing projects completed duri
 
 ![Project 3 - CAD Model](images/project-3-cad1.jpg)
 
+*CAD Model*
+
 ![Project 3 - CAD Model (close-up view 1)](images/project-3-cad2.jpg)
 
+*Close-up view*
+
 ![Project 3 - CAD Model (close-up view 2)](images/project-3-cad3.jpg)
+
+*Additional detail*
 
 ![Project 3 - CAD Model (support view)](images/project-3-cad4.jpg)
 
