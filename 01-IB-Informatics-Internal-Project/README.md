@@ -1,8 +1,7 @@
 # Landscaping Project Planner
 
 ![Programming](https://img.shields.io/badge/Programming-2ECC71)
-![Python](https://img.shields.io/badge/Language-Python-218C52)
-![Academic Project](https://img.shields.io/badge/Academic%20Project-IB%20Diploma-6C757D)
+![Python](https://img.shields.io/badge/Python-218C52)
 
 ## Overview
 
