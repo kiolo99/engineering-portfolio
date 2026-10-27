@@ -64,4 +64,4 @@ I was responsible for [specify which parts you designed, programmed, tested, and
 - **Subject:** Informatics
 - **Project Type:** Individual academic project for a real client
 - **Client:** Landscaping professional
-- **Year:** 2023
+- **Year:** 2022-2023
