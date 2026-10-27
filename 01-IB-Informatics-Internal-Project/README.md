@@ -7,7 +7,9 @@
 ## Overview
 
 As part of the International Baccalaureate (IB) Diploma Programme, I developed a final project for the Informatics subject in collaboration with a real client. My client was my mother, who works in landscaping and manages multiple projects simultaneously.
+
 Each project consists of several designated areas, such as an entrance, terrace, or garden, which are filled with different plants. To simplify this process, I developed a program that allows users to store plant information locally on a computer, including plant sizes, prices, and additional notes.
+
 Users can create individual landscaping projects and divide them into designated areas. Plants can then be assigned to each area, allowing users to plan the layout and automatically calculate the total occupied area and the associated costs.
 
 **Tools & Technologies:** Pyhton, SQL, tkinter library
