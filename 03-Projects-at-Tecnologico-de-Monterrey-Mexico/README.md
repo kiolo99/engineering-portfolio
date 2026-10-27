@@ -5,10 +5,10 @@
 ![3D Modeling](https://img.shields.io/badge/3D%20Modeling-21618C)
 ![Manufacturing](https://img.shields.io/badge/Manufacturing-21618C)
 
-![Programming](https://img.shields.io/badge/Programming-2ECC71)
+![Programing](https://img.shields.io/badge/Programing-2ECC71)
 ![MATLAB](https://img.shields.io/badge/MATLAB-218C52)
 
-![Electronics](https://img.shields.io/badge/Programing-BB6BD9)
+![Electronics](https://img.shields.io/badge/Electronics-BB6BD9)
 ![Arduino](https://img.shields.io/badge/Arduino-76448A)
 
 ## Overview
