@@ -50,7 +50,12 @@ However, despite this initial planning, usability remained a challenge. The clie
 
 ![Sketch - Initial Sketch](images/sketch.jpg)
 
-*Initial Sketch*
+*Initial sketch*
+
+![Start page - Initial Sketch](images/sketch.jpg)
+
+*Initial sketch*
+
 
 ## Outcome and Learning
 
