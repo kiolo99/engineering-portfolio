@@ -2,6 +2,7 @@
 
 ![Programming](https://img.shields.io/badge/Programming-2ECC71)
 ![Python](https://img.shields.io/badge/Python-218C52)
+![SQL](https://img.shields.io/badge/SQL-218C52)
 
 ## Overview
 
@@ -22,11 +23,11 @@ Users can create individual landscaping projects and divide them into designated
 
 ## Technical Implementation
 
-**Programming Language:** [Language used]
+**Programming Language:** Python and SQL
 
-**Libraries / Frameworks:** [Libraries or frameworks used, if any]
+**Libraries / Frameworks:** tkinter
 
-**Data Storage:** [How plant and project information is stored]
+**Data Storage:** MySQL local database
 
 **Main Programming Concepts:** [e.g., functions, classes, data structures, file handling, calculations]
 
@@ -63,4 +64,4 @@ I was responsible for [specify which parts you designed, programmed, tested, and
 - **Subject:** Informatics
 - **Project Type:** Individual academic project for a real client
 - **Client:** Landscaping professional
-- **Year:** [Year completed]
+- **Year:** 2023
