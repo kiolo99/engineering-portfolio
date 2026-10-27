@@ -128,3 +128,9 @@ A collection of four mechanical design and manufacturing projects completed duri
 ![Project 4 - Finished Product](images/project-4-final.jpg)
 
 *Finished product*
+
+## Project Context
+
+- **Univeristy:** Tecnológico de Monterrey
+- **Software:** Onshape, SolidWorks and MATLAB
+- **Year:** 2023-2024
