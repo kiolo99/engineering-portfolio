@@ -78,9 +78,9 @@ However, despite this initial planning, usability remained a challenge. The clie
 
 ## Video
 
-![Program - Video](images/program-video.mp4)
+[![Watch the project demonstration](images/video-thumbnail.jpg)]([https://[www.youtu](https://youtu.be/ZUWT2ZJoUMg)])
 
-*Video (Spanish)*
+*Click the image to watch the project demonstration on YouTube.*
 
 ## Outcome and Learning
 
