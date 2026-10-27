@@ -76,6 +76,12 @@ However, despite this initial planning, usability remained a challenge. The clie
 
 *Plant page*
 
+## Video
+
+![Program - Video](images/program-video.jpg)
+
+*Video (Spanish)*
+
 ## Outcome and Learning
 
 The project provided practical experience in developing software for a real client's needs. It involved translating a real-world workflow into a functional application.
