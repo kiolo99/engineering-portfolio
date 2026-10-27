@@ -78,7 +78,7 @@ However, despite this initial planning, usability remained a challenge. The clie
 
 ## Video
 
-![Program - Video](images/program-video.jpg)
+![Program - Video](images/program-video.mp4)
 
 *Video (Spanish)*
 
