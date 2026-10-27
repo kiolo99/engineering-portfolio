@@ -54,10 +54,6 @@ The project provided practical experience in developing software for a real clie
 
 [Add what you learned, what worked well, and any improvements you would make.]
 
-## My Contribution
-
-I was responsible for [specify which parts you designed, programmed, tested, and implemented yourself].
-
 ## Project Context
 
 - **Programme:** International Baccalaureate Diploma Programme
