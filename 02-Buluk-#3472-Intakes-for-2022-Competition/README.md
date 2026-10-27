@@ -78,3 +78,4 @@ Two alternative intake mechanisms were designed in CAD and manufactured as physi
 - **Software:** Onshape
 - **Materials:** MDF
 - **Project Type:** Team-based mechanical design and prototyping
+- **Year:** 2022-2023
