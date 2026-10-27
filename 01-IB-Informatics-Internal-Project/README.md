@@ -52,10 +52,29 @@ However, despite this initial planning, usability remained a challenge. The clie
 
 *Initial sketch*
 
-![Start page - Initial Sketch](images/sketch.jpg)
+![Program - Homepage](images/program-homepage.jpg)
 
-*Initial sketch*
+*Homepage*
 
+![Program - Projects](images/program-projects-page.jpg)
+
+*Projects page*
+
+![Program - Manage project](images/program-manage-project-page.jpg)
+
+*Manage project page*
+
+![Program - Manage area](images/program-manage-project-area.jpg)
+
+*Manage area page*
+
+![Program - Plant catalog](images/program-plant-catalog-page.jpg)
+
+*Plant catalog page*
+
+![Program - Plant](images/program-plant-page.jpg)
+
+*Plant page*
 
 ## Outcome and Learning
 
