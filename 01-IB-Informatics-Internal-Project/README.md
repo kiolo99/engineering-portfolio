@@ -48,9 +48,9 @@ However, despite this initial planning, usability remained a challenge. The clie
 
 ## Screenshots
 
-![Sketch - Sketch](images/sketch.jpg)
+![Sketch - Initial Sketch](images/sketch.jpg)
 
-*Sketch*
+*Initial Sketch*
 
 ## Outcome and Learning
 
