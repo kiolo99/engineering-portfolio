@@ -78,7 +78,8 @@ However, despite this initial planning, usability remained a challenge. The clie
 
 ## Video
 
-[![Watch the project demonstration](images/video-thumbnail.jpg)]([https://youtu.be/ZUWT2ZJoUMg])
+[![Watch the project demonstration](images/video-thumbnail.jpg)](https://youtu.be/ZUWT2ZJoUMg)
+[![Watch the project demonstration](images/video-thumbnail.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 *Click the image to watch the project demonstration on YouTube.*
 
