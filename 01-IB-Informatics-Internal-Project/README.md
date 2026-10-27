@@ -48,7 +48,9 @@ However, despite this initial planning, usability remained a challenge. The clie
 
 ## Screenshots
 
-[Add screenshots of the application interface, plant database, project organization, and calculation results.]
+![Sketch - Sketch](images/sketch.jpg)
+
+*Sketch*
 
 ## Outcome and Learning
 
