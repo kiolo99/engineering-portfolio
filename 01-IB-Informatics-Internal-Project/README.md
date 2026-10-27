@@ -64,7 +64,7 @@ However, despite this initial planning, usability remained a challenge. The clie
 
 *Manage project page*
 
-![Program - Manage area](images/program-manage-area-area.jpg)
+![Program - Manage area](images/program-manage-area-page.jpg)
 
 *Manage area page*
 
